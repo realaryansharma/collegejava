@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jdbc20Ap.java/Jdbc20Ap.java.iml" filepath="$PROJECT_DIR$/Jdbc20Ap.java/Jdbc20Ap.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread13/Thread13.iml" filepath="$PROJECT_DIR$/Thread13/Thread13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-16s/day-16s.iml" filepath="$PROJECT_DIR$/day-16s/day-16s.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-18/day-18.iml" filepath="$PROJECT_DIR$/day-18/day-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicingThread17/practicingThread17.iml" filepath="$PROJECT_DIR$/practicingThread17/practicingThread17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vivaTest/vivaTest.iml" filepath="$PROJECT_DIR$/vivaTest/vivaTest.iml" />
+    </modules>
+  </component>
+</project>

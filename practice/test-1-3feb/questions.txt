@@ -1,0 +1,11 @@
+/*
+
+    1. Method based code for -
+        1 size of datatype
+        2 use any six operator
+    
+    2. Overloading of Constructor
+    
+    3. Copy Constructor
+
+*/
